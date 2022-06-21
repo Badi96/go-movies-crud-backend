@@ -19,7 +19,7 @@ Open Postman:
         }
     }
     ```
-3. For Updating a movie: USE PUT operator to url ```http://localhost:8000/movies/{id}```, where id is the id of the movie you want to update. For example, to update movie with id 7 use ´´´http://localhost:8000/movies/7´´´ and change body of to the desired content, for example: 
+3. For Updating a movie: USE PUT operator to url ```http://localhost:8000/movies/{id}```, where id is the id of the movie you want to update. For example, to update movie with id 7 use ```http://localhost:8000/movies/7``` and change body of to the desired content, for example: 
      ```json 
     {
         "isbn": "77777",
