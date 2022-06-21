@@ -1,6 +1,6 @@
 # go-movies-crud-backend
 Application in Go for the backend for movies, using the CRUD operations. 
-## Prerequsits 
+## Prerequisites 
 Golang installed \
 mux library, run in terminal: ```go get "github.com/gorilla/mux"``` \
 Download Postman (for API management): https://www.postman.com/
